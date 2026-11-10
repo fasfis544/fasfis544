@@ -111,12 +111,6 @@ Create, search, edit and organize tasks by status. An Angular interface connecte
 
 **Also in Java:** [Product management](https://github.com/fasfis544/GestionProductos), a JavaFX desktop application with filters and data import/export.
 
-## My GitHub activity
-
-<img src="assets/activity.svg" width="100%" alt="Live GitHub data: contributions over the last twelve months, public repositories, languages by code volume and contribution calendar" />
-
-<sub>Updated daily with GitHub Actions. Language shares are based on code bytes in my own public repositories, excluding this profile; they do not measure proficiency. Activity depends on the visibility provided by GitHub.</sub>
-
 ---
 
 ### Let's build something together

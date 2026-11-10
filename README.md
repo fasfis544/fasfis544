@@ -111,12 +111,6 @@ Aplicación para crear, buscar, editar y organizar tareas por estado. Una interf
 
 **También en Java:** [Gestión de productos](https://github.com/fasfis544/GestionProductos), una aplicación de escritorio con JavaFX, filtros e importación/exportación de datos.
 
-## Mi actividad en GitHub
-
-<img src="assets/activity.svg" width="100%" alt="Estadísticas reales de GitHub: contribuciones de los últimos doce meses, repositorios públicos, lenguajes por volumen de código y calendario de actividad" />
-
-<sub>Actualización diaria con GitHub Actions. Los lenguajes se calculan por bytes de código en repositorios públicos propios, excluyendo este perfil; no representan nivel de dominio. La actividad depende de la visibilidad que ofrece GitHub.</sub>
-
 ---
 
 ### ¿Construimos algo juntos?
