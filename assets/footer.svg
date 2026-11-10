@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title">
+  <title id="title">Fabricio Quiroga · Aprender, construir, mejorar.</title>
+  <defs><linearGradient id="line"><stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient></defs>
+  <rect y="25" width="1280" height="1" fill="url(#line)" opacity=".6"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#8B98B3">
+    <text x="0" y="65">fq. / Fabricio Quiroga</text>
+    <text x="1280" y="65" text-anchor="end">Aprender, construir, mejorar.</text>
+  </g>
+</svg>

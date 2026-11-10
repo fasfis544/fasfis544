@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="36" viewBox="0 0 165 36" role="img" aria-label="Cine Aurora demo">
+  <rect x=".5" y=".5" width="164" height="35" rx="8" fill="#281D40" stroke="#594078"/>
+  <path d="m17 11 11 7-11 7z" fill="none" stroke="#D8B4FE" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="40" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3E8FF">Cine Aurora</text>
+  <path d="M143 14h7v7m-7 0 7-7" fill="none" stroke="#D8B4FE" stroke-width="1.5"/>
+</svg>
