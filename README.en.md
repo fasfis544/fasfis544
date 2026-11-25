@@ -49,7 +49,7 @@ I'm a **Junior Full Stack Developer** studying for a **University Technical Degr
 
 <img src="assets/stack/more.svg" height="48" alt="React, Bootstrap, Flutter and Dart" />
 
-- **Web & mobile:** React, Bootstrap, Flutter and Dart. Built a restaurant app in a team of four developers.
+- **Web & mobile:** React, Bootstrap, Flutter and Dart.
 - **Architecture:** REST APIs, JWT authentication, object-oriented programming, MVC and client-server architecture.
 - **Practices:** Clean Code, data structures, algorithms and OWASP Top 10 fundamentals.
 - **AI-assisted development:** Claude Code, ChatGPT and GitHub Copilot.
@@ -58,7 +58,25 @@ I'm a **Junior Full Stack Developer** studying for a **University Technical Degr
 
 ## Selected projects
 
-### 01 / Cine Aurora
+### 01 / El Fogón de Oro
+
+**A mobile app for running a restaurant, from reservations to settling the bill.**
+
+A capstone project at UTN Avellaneda, built by a team of four (Grupo Error-404). The app connects the guest experience with staff workflows: guests scan a table QR code and order from the menu, kitchen and bar staff prepare the order, and guests can settle the bill with a tip, a simulated payment and a PDF invoice. It also supports delivery orders, chat and push notifications.
+
+**My contributions**
+
+- Improved the waitlist and the QR-based table confirmation flow.
+- Built reusable list and card components for the menu, reservations and orders.
+- Refined the mini-game discount rules and simplified the survey form. Added automated tests for these flows.
+
+`Flutter` `Dart` `Riverpod` `Supabase` `PostgreSQL` `Firebase Cloud Messaging`
+
+[Original team repository](https://github.com/nacho1543/Error-404) *(private; access required)*
+
+<br />
+
+### 02 / Cine Aurora
 
 **A cinema platform, from movie discovery to back-office operations.**
 
@@ -78,7 +96,7 @@ Movie listings, seat selection, simulated checkout, QR tickets and a role-based 
 <tr>
 <td width="50%" valign="top">
 
-### 02 / SportsWear
+### 03 / SportsWear
 
 <a href="https://github.com/fasfis544/tp-integrador-backend">
   <img src="assets/projects/sportswear.webp" width="100%" alt="Real preview of the SportsWear product catalogue and shopping cart" />
@@ -93,7 +111,7 @@ Sports store with product search, filters, shopping cart and an admin panel. RES
 </td>
 <td width="50%" valign="top">
 
-### 03 / Task manager
+### 04 / Task manager
 
 <a href="https://github.com/fasfis544/Gestion-de-tareas-base-en-supabase">
   <img src="assets/projects/tareas.webp" width="100%" alt="Real preview of the Angular and Supabase task manager" />

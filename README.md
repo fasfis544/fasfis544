@@ -49,7 +49,7 @@ Soy **desarrollador Full Stack Junior** y estudiante de la **Tecnicatura Univers
 
 <img src="assets/stack/more.svg" height="48" alt="React, Bootstrap, Flutter y Dart" />
 
-- **Web y móvil:** React, Bootstrap y desarrollo de aplicaciones con Flutter y Dart. Participé en una app para restaurante junto a otros tres desarrolladores.
+- **Web y móvil:** React, Bootstrap y desarrollo de aplicaciones con Flutter y Dart.
 - **Arquitectura:** APIs REST, autenticación JWT, programación orientada a objetos, MVC y arquitectura cliente-servidor.
 - **Buenas prácticas:** Clean Code, estructuras de datos, algoritmos y fundamentos de OWASP Top 10.
 - **IA como herramienta:** Claude Code, ChatGPT y GitHub Copilot.
@@ -58,7 +58,25 @@ Soy **desarrollador Full Stack Junior** y estudiante de la **Tecnicatura Univers
 
 ## Proyectos destacados
 
-### 01 / Cine Aurora
+### 01 / El Fogón de Oro
+
+**Aplicación móvil para gestionar un restaurante, desde la reserva hasta el cierre de la cuenta.**
+
+Trabajo Final Integrador en UTN Avellaneda, desarrollado en un equipo de cuatro personas (Grupo Error-404). La app conecta lo que hace el cliente con el trabajo del personal: escanear el QR de la mesa, pedir desde la carta, preparar el pedido entre cocina y bar y cerrar la cuenta con propina, pago simulado y factura PDF. También incluye pedidos a domicilio, chat y notificaciones push.
+
+**Mis aportes al equipo**
+
+- Mejoré la lista de espera y el flujo de confirmación de mesa por QR.
+- Implementé componentes reutilizables para listas y tarjetas de la carta, las reservas y los pedidos.
+- Ajusté las reglas de descuentos de los minijuegos y simplifiqué el formulario de encuestas. Sumé pruebas automatizadas para estos flujos.
+
+`Flutter` `Dart` `Riverpod` `Supabase` `PostgreSQL` `Firebase Cloud Messaging`
+
+[Repositorio original del equipo](https://github.com/nacho1543/Error-404) *(privado; requiere acceso)*
+
+<br />
+
+### 02 / Cine Aurora
 
 **Una plataforma de cine, desde la cartelera hasta la administración.**
 
@@ -78,7 +96,7 @@ Cartelera, selección de butacas, compra simulada, comprobantes QR y un backoffi
 <tr>
 <td width="50%" valign="top">
 
-### 02 / SportsWear
+### 03 / SportsWear
 
 <a href="https://github.com/fasfis544/tp-integrador-backend">
   <img src="assets/projects/sportswear.webp" width="100%" alt="Vista previa real de la tienda SportsWear, con catálogo de productos y carrito" />
@@ -93,7 +111,7 @@ Tienda deportiva con catálogo, filtros, carrito y panel de administración. API
 </td>
 <td width="50%" valign="top">
 
-### 03 / Gestión de tareas
+### 04 / Gestión de tareas
 
 <a href="https://github.com/fasfis544/Gestion-de-tareas-base-en-supabase">
   <img src="assets/projects/tareas.webp" width="100%" alt="Vista previa real del gestor de tareas desarrollado con Angular y Supabase" />
